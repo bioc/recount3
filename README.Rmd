@@ -26,7 +26,7 @@ library("BiocStyle")
 [![Bioc last commit](https://bioconductor.org/shields/lastcommit/devel/bioc/recount3.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/recount3/)
 [![Bioc dependencies](https://bioconductor.org/shields/dependencies/release/recount3.svg)](https://bioconductor.org/packages/release/bioc/html/recount3.html#since)
 [![Codecov test coverage](https://codecov.io/gh/LieberInstitute/recount3/branch/master/graph/badge.svg)](https://codecov.io/gh/LieberInstitute/recount3?branch=master)
-[![R build status](https://github.com/LieberInstitute/recount3/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/LieberInstitute/recount3/actions)
+[![R build status](https://github.com/LieberInstitute/recount3/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/LieberInstitute/recount3/actions/workflows/check-bioc.yml)
 [![GitHub issues](https://img.shields.io/github/issues/LieberInstitute/recount3)](https://github.com/LieberInstitute/recount3/issues)
 [![GitHub pulls](https://img.shields.io/github/issues-pr/LieberInstitute/recount3)](https://github.com/LieberInstitute/recount3/pulls)
 <!-- badges: end -->

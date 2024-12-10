@@ -24,7 +24,7 @@ dependencies](https://bioconductor.org/shields/dependencies/release/recount3.svg
 [![Codecov test
 coverage](https://codecov.io/gh/LieberInstitute/recount3/branch/master/graph/badge.svg)](https://codecov.io/gh/LieberInstitute/recount3?branch=master)
 [![R build
-status](https://github.com/LieberInstitute/recount3/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/LieberInstitute/recount3/actions)
+status](https://github.com/LieberInstitute/recount3/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/LieberInstitute/recount3/actions/workflows/check-bioc.yml)
 [![GitHub
 issues](https://img.shields.io/github/issues/LieberInstitute/recount3)](https://github.com/LieberInstitute/recount3/issues)
 [![GitHub
